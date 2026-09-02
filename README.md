@@ -65,20 +65,6 @@ I'm currently developing my skills across the complete web development stack.
 **Database**
 `MongoDB` `MongoDB Atlas` `MySQL`
 
-Typical areas I work with include:
-
-- User authentication and authorization
-- REST API development
-- CRUD operations
-- Database integration
-- Form handling and validation
-- Responsive UI development
-- Frontend and backend integration
-- API testing with Postman
-- Full-stack application deployment
-
----
-
 # 🚀 Featured Projects
 
 <table>
