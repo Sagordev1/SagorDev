@@ -9,12 +9,12 @@
 </div>
 
 ### 🚀 About Me
-আমি একজন CSE Student এবং passionate Full Stack Developer। ওয়েব ডেভেলপমেন্ট এবং মেশিন লার্নিং নিয়ে কাজ করতে এবং শিখতে ভালোবাসি। রিয়েল-ওয়ার্ল্ড প্রব্লেম সলভ করা প্রজেক্ট বানাতে আমার সবচেয়ে ভালো লাগে।
+I am a CSE Student and a passionate Full Stack Developer. I love learning and working with Web Development and Machine Learning. I especially enjoy building projects that solve real-world problems.
 
-- 🏃 বর্তমানে কাজ করছি **[BrainBoost](https://github.com/Sagordev1/BrainBoost)** নিয়ে
-- 🧑‍🤝‍🧑 কোলাবরেট করতে চাই **[Hospital-management-system](https://github.com/Sagordev1/Hospital-management-system)** এ
-- 👨‍💻 সব প্রজেক্ট পাবে: [github.com/Sagordev1](https://github.com/Sagordev1)
-- 📫 যোগাযোগ: [bicitrodevsagor2002@gmail.com](mailto:bicitrodevsagor2002@gmail.com)
+🏃 Currently working on BrainBoost
+🧑‍🤝‍🧑 Looking to collaborate on Hospital-management-system
+👨‍💻 Check out all my projects: github.com/Sagordev1
+📫 Reach me at: bicitrodevsagor2002@gmail.com
 
 ### 🌐 Connect With Me
 
