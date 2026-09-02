@@ -1,32 +1,22 @@
-<!-- ====================================================== -->
-<!--                    SAGOR DEV PROFILE                   -->
-<!-- ====================================================== -->
-
-<!-- ========================= BANNER ========================= -->
+<!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Sagor Dev Banner">
+  <img src="./banner.png" width="100%" alt="Sagor Dev Banner"/>
 </p>
 
-<br>
+<br/>
 
-<!-- ========================= INTRO ========================== -->
+<!-- ===================== INTRO ===================== -->
 
 <h1 align="center">Hi 👋, I'm Sagor Dev</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+from+Bangladesh;CSE+Student;Passionate+Web+Developer;Exploring+Machine+Learning;Always+Learning+%26+Building"
-    alt="Typing SVG"
-  >
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Bangladesh;CSE+Student;Passionate+about+Web+Development;Exploring+Machine+Learning;Always+Learning+%26+Building" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Sagordev1">
-    <img
-      src="https://komarev.com/ghpvc/?username=Sagordev1&label=Profile%20Views&color=6366f1&style=flat"
-      alt="Profile Views"
-    >
+    <img src="https://komarev.com/ghpvc/?username=Sagordev1&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views"/>
   </a>
 </p>
 
@@ -40,94 +30,72 @@ I love learning and working with **Web Development, Software Engineering, and Ma
 
 - 🔭 Currently working on **BrainBoost**
 - 🤝 Looking to collaborate on **Hospital Management System**
-- 🌱 Currently learning **Full Stack Development & Machine Learning**
+- 🌱 Currently exploring **Full Stack Development & Machine Learning**
 - 💡 Interested in **React, Node.js, MongoDB, JavaScript & Python**
 - 🧠 Always learning new technologies
 - 💬 Ask me about **Web Development, JavaScript, React & Git**
-- 📫 Email: **bicitrodevsagor2002@gmail.com**
+- 📫 Reach me at **bicitrodevsagor2002@gmail.com**
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 BrainBoost
+### 🧠 BrainBoost
 
 An interactive quiz and learning platform designed to help students improve their knowledge through quizzes.
 
-**Tech Stack:**
+**Tech:** React.js • JavaScript • Node.js • MongoDB
 
-`React.js` • `JavaScript` • `Node.js` • `MongoDB`
-
-<p>
-  🔗 <a href="https://github.com/Sagordev1/BrainBoost">
-    View BrainBoost
-  </a>
-</p>
+🔗 [View Repository](https://github.com/Sagordev1/BrainBoost)
 
 ---
 
-## 🏥 Hospital Management System
+### 🏥 Hospital Management System
 
-A management system for handling hospital-related information including patients, doctors and CRUD operations.
+A management system designed to handle hospital-related information including patients, doctors and CRUD operations.
 
-**Tech Stack:**
+**Tech:** Python • Flask • MySQL
 
-`Python` • `Flask` • `MySQL`
-
-<p>
-  🔗 <a href="https://github.com/Sagordev1/Hospital-management-system">
-    View Hospital Management System
-  </a>
-</p>
+🔗 [View Repository](https://github.com/Sagordev1/Hospital-management-system)
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Programming Languages
+## 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="Programming Languages">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
 </p>
 
----
-
-## 🎨 Frontend Development
+## 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,figma" alt="Frontend Technologies">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,figma" />
 </p>
 
----
-
-## ⚙️ Backend Development
+## ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend Technologies">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
-
----
 
 ## 🗄️ Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Technologies">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
-
----
 
 ## ☁️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode,postman,docker" alt="Tools and Technologies">
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode,postman,docker" />
 </p>
-
----
 
 ## 📱 Other Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,unity" alt="Other Technologies">
+  <img src="https://skillicons.dev/icons?i=android,unity" />
 </p>
 
 ---
@@ -138,10 +106,15 @@ A management system for handling hospital-related information including patients
 
 <p align="center">
   <img
-    src="./profile/stats.svg"
-    width="70%"
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Sagordev1&show_icons=true&theme=radical&hide_border=true&count_private=true"
     alt="Sagor Dev GitHub Stats"
-  >
+  />
+  <img
+    width="48%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Sagordev1&theme=radical&hide_border=true"
+    alt="Sagor Dev GitHub Streak"
+  />
 </p>
 
 ---
@@ -150,10 +123,27 @@ A management system for handling hospital-related information including patients
 
 <p align="center">
   <img
-    src="./profile/top-langs.svg"
     width="55%"
-    alt="Sagor Dev Most Used Languages"
-  >
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagordev1&layout=compact&theme=radical&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
+## 📚 Languages by Repository
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sagordev1&theme=radical"
+    alt="Languages per Repository"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sagordev1&theme=radical"
+    alt="Most Commit Language"
+  />
 </p>
 
 ---
@@ -162,10 +152,10 @@ A management system for handling hospital-related information including patients
 
 <p align="center">
   <img
-    src="./profile/activity-graph.svg"
     width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sagordev1&theme=radical"
     alt="Sagor Dev GitHub Contributions"
-  >
+  />
 </p>
 
 ---
@@ -174,39 +164,47 @@ A management system for handling hospital-related information including patients
 
 <p align="center">
   <img
-    src="./profile/activity-graph.svg"
     width="100%"
-    alt="Sagor Dev GitHub Activity"
-  >
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sagordev1&theme=tokyo-night&hide_border=true&area=true"
+    alt="Sagor Dev GitHub Activity Graph"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Sagordev1&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
 
 # 🎯 Current Goals
 
-<p align="center">
-  🚀 Build production-ready Full Stack applications
-  <br>
-  🤖 Explore Machine Learning & Artificial Intelligence
-  <br>
-  🌐 Contribute to Open Source
-  <br>
-  🧠 Improve Problem Solving & Algorithms
-  <br>
-  💻 Become a Better Software Engineer
-  <br>
-  📚 Keep Learning New Technologies
-</p>
+```text
+🚀 Build production-ready Full Stack applications
+
+🤖 Explore Machine Learning & Artificial Intelligence
+
+🌐 Contribute to Open Source
+
+🧠 Improve Problem Solving & Algorithms
+
+💻 Become a Better Software Engineer
+
+📚 Keep Learning New Technologies
+```
 
 ---
 
 # 📚 Currently Learning
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,git,docker"
-    alt="Currently Learning"
-  >
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,git,docker" />
 </p>
 
 - ⚛️ Advanced React
@@ -219,13 +217,61 @@ A management system for handling hospital-related information including patients
 
 ---
 
-# 💡 What I Like Building
+# 🤝 Connect With Me
 
-```text
-🌐 Modern Web Applications
-🧠 Learning & Quiz Platforms
-🏥 Management Systems
-🔐 Secure Applications
-🤖 Machine Learning Projects
-📊 Data-driven Applications
-🚀 Full Stack Projects
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sagor-dev-6135652ab/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/share/1Hkh4Nm8EA/">
+  <img src="https://img.icons8.com/color/48/facebook-new.png" width="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/cit__ro/">
+  <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:bicitrodevsagor2002@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Open to Opportunities
+
+I am interested in:
+
+- 💻 Full Stack Development
+- 🌐 Web Development
+- 🤖 Machine Learning
+- 🧑‍💻 Software Engineering
+- 🤝 Open Source Collaboration
+- 🚀 Interesting Development Projects
+
+If you have an interesting project or collaboration opportunity, feel free to reach out!
+
+---
+
+# 🌟 Let's Build Something Amazing Together
+
+<p align="center">
+  <b>💙 Thanks for visiting my GitHub profile!</b>
+</p>
+
+<p align="center">
+  <i>Keep Coding • Keep Learning • Keep Building 🚀</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects useful, consider giving them a star!
+</p>
