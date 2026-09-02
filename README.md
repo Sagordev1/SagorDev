@@ -248,32 +248,20 @@ A web-based hospital management system for managing patients, doctors and hospit
 # 🤝 Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/sagor-dev-6135652ab/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-&nbsp;&nbsp;
-
+</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/share/1Hkh4Nm8EA/">
   <img src="https://img.icons8.com/color/48/facebook-new.png" width="45"/>
-</a>
-
-&nbsp;&nbsp;
-
+</a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/cit__ro/">
   <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-</a>
-
-&nbsp;&nbsp;
-
+</a>&nbsp;&nbsp;
 <a href="mailto:bicitrodevsagor2002@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
 </a>
-
 </p>
 
----
 
 # 💼 Open to Opportunities
 
