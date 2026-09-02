@@ -1,22 +1,22 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ==================== BANNER ==================== -->
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Sagor Dev Banner"/>
+  <img src="./banner.png" width="100%" alt="Sagor Dev Banner">
 </p>
 
-<br/>
+<br>
 
-<!-- ===================== INTRO ===================== -->
+<!-- ==================== INTRO ==================== -->
 
 <h1 align="center">Hi 👋, I'm Sagor Dev</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Bangladesh;CSE+Student;Passionate+about+Web+Development;Exploring+Machine+Learning;Always+Learning+%26+Building" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+from+Bangladesh;CSE+Student;Passionate+Web+Developer;Exploring+Machine+Learning;Always+Learning+%26+Building" alt="Typing SVG">
 </p>
 
 <p align="center">
   <a href="https://github.com/Sagordev1">
-    <img src="https://komarev.com/ghpvc/?username=Sagordev1&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Sagordev1&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views">
   </a>
 </p>
 
@@ -30,72 +30,72 @@ I love learning and working with **Web Development, Software Engineering, and Ma
 
 - 🔭 Currently working on **BrainBoost**
 - 🤝 Looking to collaborate on **Hospital Management System**
-- 🌱 Currently exploring **Full Stack Development & Machine Learning**
+- 🌱 Currently learning **Full Stack Development & Machine Learning**
 - 💡 Interested in **React, Node.js, MongoDB, JavaScript & Python**
 - 🧠 Always learning new technologies
 - 💬 Ask me about **Web Development, JavaScript, React & Git**
-- 📫 Reach me at **bicitrodevsagor2002@gmail.com**
+- 📫 Email: **bicitrodevsagor2002@gmail.com**
 
 ---
 
 # 🚀 Featured Projects
 
-### 🧠 BrainBoost
+## 🧠 BrainBoost
 
 An interactive quiz and learning platform designed to help students improve their knowledge through quizzes.
 
-**Tech:** React.js • JavaScript • Node.js • MongoDB
+**Tech Stack:** React.js • JavaScript • Node.js • MongoDB
 
-🔗 [View Repository](https://github.com/Sagordev1/BrainBoost)
+🔗 [View BrainBoost](https://github.com/Sagordev1/BrainBoost)
 
 ---
 
-### 🏥 Hospital Management System
+## 🏥 Hospital Management System
 
-A management system designed to handle hospital-related information including patients, doctors and CRUD operations.
+A management system for handling hospital-related information including patients, doctors and CRUD operations.
 
-**Tech:** Python • Flask • MySQL
+**Tech Stack:** Python • Flask • MySQL
 
-🔗 [View Repository](https://github.com/Sagordev1/Hospital-management-system)
+🔗 [View Hospital Management System](https://github.com/Sagordev1/Hospital-management-system)
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
+## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="Programming Languages">
 </p>
 
 ## 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,figma" alt="Frontend Technologies">
 </p>
 
 ## ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend Technologies">
 </p>
 
 ## 🗄️ Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases">
 </p>
 
 ## ☁️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode,postman,docker" alt="Tools and Technologies">
 </p>
 
 ## 📱 Other Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,unity" />
+  <img src="https://skillicons.dev/icons?i=android,unity" alt="Other Technologies">
 </p>
 
 ---
@@ -106,15 +106,9 @@ A management system designed to handle hospital-related information including pa
 
 <p align="center">
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=Sagordev1&show_icons=true&theme=radical&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Sagordev1&show_icons=true&theme=radical&hide_border=true"
     alt="Sagor Dev GitHub Stats"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Sagordev1&theme=radical&hide_border=true"
-    alt="Sagor Dev GitHub Streak"
-  />
+  >
 </p>
 
 ---
@@ -123,27 +117,9 @@ A management system designed to handle hospital-related information including pa
 
 <p align="center">
   <img
-    width="55%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagordev1&layout=compact&theme=radical&hide_border=true"
     alt="Most Used Languages"
-  />
-</p>
-
----
-
-## 📚 Languages by Repository
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sagordev1&theme=radical"
-    alt="Languages per Repository"
-  />
-  <img
-    width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sagordev1&theme=radical"
-    alt="Most Commit Language"
-  />
+  >
 </p>
 
 ---
@@ -152,10 +128,9 @@ A management system designed to handle hospital-related information including pa
 
 <p align="center">
   <img
-    width="100%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sagordev1&theme=radical"
     alt="Sagor Dev GitHub Contributions"
-  />
+  >
 </p>
 
 ---
@@ -164,10 +139,9 @@ A management system designed to handle hospital-related information including pa
 
 <p align="center">
   <img
-    width="100%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Sagordev1&theme=tokyo-night&hide_border=true&area=true"
     alt="Sagor Dev GitHub Activity Graph"
-  />
+  >
 </p>
 
 ---
@@ -177,34 +151,27 @@ A management system designed to handle hospital-related information including pa
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=Sagordev1&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"
-    alt="GitHub Trophies"
-  />
+    alt="Sagor Dev GitHub Trophies"
+  >
 </p>
 
 ---
 
 # 🎯 Current Goals
 
-```text
-🚀 Build production-ready Full Stack applications
-
-🤖 Explore Machine Learning & Artificial Intelligence
-
-🌐 Contribute to Open Source
-
-🧠 Improve Problem Solving & Algorithms
-
-💻 Become a Better Software Engineer
-
-📚 Keep Learning New Technologies
-```
+- 🚀 Build production-ready Full Stack applications
+- 🤖 Explore Machine Learning & Artificial Intelligence
+- 🌐 Contribute to Open Source
+- 🧠 Improve Problem Solving & Algorithms
+- 💻 Become a Better Software Engineer
+- 📚 Keep Learning New Technologies
 
 ---
 
 # 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,git,docker" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,git,docker" alt="Currently Learning">
 </p>
 
 - ⚛️ Advanced React
@@ -222,25 +189,25 @@ A management system designed to handle hospital-related information including pa
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sagor-dev-6135652ab/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.facebook.com/share/1Hkh4Nm8EA/">
-  <img src="https://img.icons8.com/color/48/facebook-new.png" width="45"/>
+  <img src="https://img.icons8.com/color/48/facebook-new.png" width="45" alt="Facebook">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.instagram.com/cit__ro/">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="mailto:bicitrodevsagor2002@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Email">
 </a>
 
 </p>
