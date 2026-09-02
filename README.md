@@ -132,12 +132,13 @@ A web-based hospital management system for managing patients, doctors and hospit
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=Sagordev1&show_icons=true&theme=radical&hide_border=true&count_private=true"
+    src="./profile/stats.svg"
     alt="Sagor Dev GitHub Stats"
   />
+  <!-- CHANGED: herokuapp.com dead hoye giyeche, demolab.com use korlam -->
   <img
     width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Sagordev1&theme=radical&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Sagordev1&theme=radical&hide_border=true"
     alt="Sagor Dev GitHub Streak"
   />
 </p>
@@ -147,9 +148,10 @@ A web-based hospital management system for managing patients, doctors and hospit
 ## 💻 Most Used Languages
 
 <p align="center">
+  <!-- CHANGED: local generated SVG use kora hoyeche -->
   <img
     width="55%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagordev1&layout=compact&theme=radical&hide_border=true"
+    src="./profile/top-langs.svg"
     alt="Most Used Languages"
   />
 </p>
@@ -188,9 +190,10 @@ A web-based hospital management system for managing patients, doctors and hospit
 # 📈 GitHub Activity
 
 <p align="center">
+  <!-- CHANGED: local generated SVG use kora hoyeche -->
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sagordev1&theme=tokyo-night&hide_border=true&area=true"
+    src="./profile/activity-graph.svg"
     alt="Sagor Dev GitHub Activity Graph"
   />
 </p>
