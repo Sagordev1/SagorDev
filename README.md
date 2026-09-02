@@ -51,21 +51,16 @@ I am a CSE Student and a passionate Full Stack Developer. I love learning and wo
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagordev1&theme=radical&hide_border=true" width="48%" />
 
 
-### 📈 GitHub Contributions
+### 📊 GitHub Statistics & Analysis
+
+### 📅 GitHub Contributions
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sagordev1&theme=react-dark&hide_border=true&area=true"
+  <img
+    src="https://ssr-contributions-svg.vercel.app/_/Sagordev1?chart=calendar&format=svg"
+    alt="Sagor Dev's GitHub Contributions"
     width="100%"
   />
 </p>
 
-### 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Sagordev1/Sagordev1/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</p>
