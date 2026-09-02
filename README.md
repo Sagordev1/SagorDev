@@ -209,7 +209,16 @@ A web-based hospital management system for managing patients, doctors and hospit
   />
 </p>
 
+
 ---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sagordev1/Sagordev1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
+  <img src="https://raw.githubusercontent.com/Sagordev1/Sagordev1/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light" />
+</p>
+
 
 # 🎯 Current Goals
 
