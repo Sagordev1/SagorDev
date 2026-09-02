@@ -16,9 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # =========================
       # GitHub Stats
-      # =========================
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -27,9 +25,7 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # =========================
       # Most Used Languages
-      # =========================
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -38,9 +34,7 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # =========================
       # Activity Graph
-      # =========================
       - name: Generate Activity Graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
@@ -49,9 +43,7 @@ jobs:
           output_path: profile/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # =========================
       # Commit Generated Files
-      # =========================
       - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
