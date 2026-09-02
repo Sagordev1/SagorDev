@@ -127,41 +127,39 @@ A web-based hospital management system for managing patients, doctors and hospit
 
 ## 💻 Languages
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
 </p>
 
 ## 🎨 Frontend
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,figma" />
 </p>
 
 ## ⚙️ Backend
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
 ## 🗄️ Database
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ## ☁️ Tools & Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode,postman,docker" />
 </p>
 
 ## 📱 Other Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=android,unity" />
 </p>
-
----
 
 # 📊 GitHub Statistics
 
