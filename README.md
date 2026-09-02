@@ -12,8 +12,11 @@
 I am a CSE Student and a passionate Full Stack Developer. I love learning and working with Web Development and Machine Learning. I especially enjoy building projects that solve real-world problems.
 
 🏃 Currently working on BrainBoost
+
 🧑‍🤝‍🧑 Looking to collaborate on Hospital-management-system
+
 👨‍💻 Check out all my projects: github.com/Sagordev1
+
 📫 Reach me at: bicitrodevsagor2002@gmail.com
 
 ### 🌐 Connect With Me
