@@ -4,14 +4,24 @@
   <img src="./banner.png" width="100%" alt="Sagor Dev Banner"/>
 </p>
 
-<br/>
-
-<!-- ===================== INTRO ===================== -->
-
-<h1 align="center">Hi 👋, I'm Sagor Dev</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&lines=CSE+Student;Aspiring+Full-Stack+Developer;MERN+Stack+Learner;Web+Development+Enthusiast;Building+%26+Learning+Every+Day" alt="Typing SVG"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Bangladesh;CSE+Student;Passionate+about+Web+Development;Exploring+Machine+Learning;Always+Learning+%26+Building" alt="Typing SVG"/>
+<a href="https://github.com/Sagordev1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/sagor-dev-6135652ab/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:bicitrodevsagor2002@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Bangladesh-1e2748?style=for-the-badge&logo=googlemaps&logoColor=5eead4" alt="Bangladesh"/>
 </p>
 
 <p align="center">
@@ -24,9 +34,11 @@
 
 # 👨‍💻 About Me
 
-I am a **CSE Student** and a passionate **Full Stack Developer** from Bangladesh.
+I'm a **Computer Science and Engineering** student at **Metropolitan University, Bangladesh**, with a strong interest in Web Development and Software Engineering.
 
-I love learning and working with **Web Development, Software Engineering, and Machine Learning**. I especially enjoy building projects that solve real-world problems and continuously improving my programming skills.
+I enjoy building software from frontend interfaces to backend APIs and databases. Currently, my primary focus is on **MERN Stack Development, Advanced JavaScript**, and building practical full-stack web applications.
+
+I'm continuously learning, building projects, and strengthening my programming and problem-solving skills to grow as a Full-Stack Developer.
 
 - 🔭 Currently working on **BrainBoost**
 - 🤝 Looking to collaborate on **Hospital Management System**
@@ -35,6 +47,33 @@ I love learning and working with **Web Development, Software Engineering, and Ma
 - 🧠 Always learning new technologies
 - 💬 Ask me about **Web Development, JavaScript, React & Git**
 - 📫 Reach me at **bicitrodevsagor2002@gmail.com**
+
+---
+
+# 💻 Full-Stack Development
+
+I'm currently developing my skills across the complete web development stack.
+
+**Frontend**
+`React.js` `JavaScript` `HTML` `CSS` `Tailwind CSS`
+
+**Backend**
+`Node.js` `Express.js` `REST APIs`
+
+**Database**
+`MongoDB` `MongoDB Atlas` `MySQL`
+
+Typical areas I work with include:
+
+- User authentication and authorization
+- REST API development
+- CRUD operations
+- Database integration
+- Form handling and validation
+- Responsive UI development
+- Frontend and backend integration
+- API testing with Postman
+- Full-stack application deployment
 
 ---
 
@@ -83,7 +122,6 @@ A web-based hospital management system for managing patients, doctors and hospit
 </table>
 
 ---
-
 
 # 🛠️ Tech Stack
 
@@ -135,7 +173,6 @@ A web-based hospital management system for managing patients, doctors and hospit
     src="./profile/stats.svg"
     alt="Sagor Dev GitHub Stats"
   />
-  <!-- CHANGED: herokuapp.com dead hoye giyeche, demolab.com use korlam -->
   <img
     width="48%"
     src="https://streak-stats.demolab.com/?user=Sagordev1&theme=radical&hide_border=true"
@@ -148,7 +185,6 @@ A web-based hospital management system for managing patients, doctors and hospit
 ## 💻 Most Used Languages
 
 <p align="center">
-  <!-- CHANGED: local generated SVG use kora hoyeche -->
   <img
     width="55%"
     src="./profile/top-langs.svg"
@@ -190,7 +226,6 @@ A web-based hospital management system for managing patients, doctors and hospit
 # 📈 GitHub Activity
 
 <p align="center">
-  <!-- CHANGED: local generated SVG use kora hoyeche -->
   <img
     width="100%"
     src="./profile/activity-graph.svg"
@@ -209,7 +244,6 @@ A web-based hospital management system for managing patients, doctors and hospit
   />
 </p>
 
-
 ---
 
 # 🐍 Contribution Snake
@@ -219,6 +253,7 @@ A web-based hospital management system for managing patients, doctors and hospit
   <img src="https://raw.githubusercontent.com/Sagordev1/Sagordev1/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light" />
 </p>
 
+---
 
 # 🎯 Current Goals
 
@@ -271,6 +306,7 @@ A web-based hospital management system for managing patients, doctors and hospit
 </a>
 </p>
 
+---
 
 # 💼 Open to Opportunities
 
