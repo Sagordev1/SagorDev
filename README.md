@@ -40,25 +40,50 @@ I love learning and working with **Web Development, Software Engineering, and Ma
 
 # 🚀 Featured Projects
 
-### 🧠 BrainBoost
+<table>
+<tr>
 
-An interactive quiz and learning platform designed to help students improve their knowledge through quizzes.
+<td width="50%">
 
-**Tech:** React.js • JavaScript • Node.js • MongoDB
+## 🧠 BrainBoost
 
-🔗 [View Repository](https://github.com/Sagordev1/BrainBoost)
+A quiz-based learning platform designed to make learning interactive and engaging.
+
+**Technologies**
+
+`React` `Node.js` `Express` `MongoDB`
+
+<br>
+
+<a href="https://github.com/Sagordev1/BrainBoost">
+<img src="https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🏥 Hospital Management System
+
+A web-based hospital management system for managing patients, doctors and hospital information.
+
+**Technologies**
+
+`Flask` `Python` `MySQL`
+
+<br>
+
+<a href="https://github.com/Sagordev1/Hospital-management-system">
+<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🏥 Hospital Management System
-
-A management system designed to handle hospital-related information including patients, doctors and CRUD operations.
-
-**Tech:** Python • Flask • MySQL
-
-🔗 [View Repository](https://github.com/Sagordev1/Hospital-management-system)
-
----
 
 # 🛠️ Tech Stack
 
