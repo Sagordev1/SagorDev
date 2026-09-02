@@ -4,6 +4,8 @@
   <img src="./banner.png" width="100%" alt="Sagor Dev Banner"/>
 </p>
 
+<h1 align="center">Hi 👋, I'm Sagor Dev</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&lines=CSE+Student;Aspiring+Full-Stack+Developer;MERN+Stack+Learner;Web+Development+Enthusiast;Building+%26+Learning+Every+Day" alt="Typing SVG"/>
 </p>
